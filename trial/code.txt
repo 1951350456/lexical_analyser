@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main{
+    int a = 1adsgasdf;//定义a
+    int b = 2.123;//定义b
+    /*算出a+b*/int c = a+b;
+    c++;
+    ;hqpwjelaksfblajs F
+    gaasbdbba/*asdfGDASGDGA*/ A+B=C;
+}
